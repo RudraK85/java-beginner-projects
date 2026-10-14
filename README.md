@@ -1,8 +1,6 @@
-# java-beginner-projects
-A collection of Java projects developed to strengthen programming fundamentals, problem-solving skills, and object-oriented programming concepts. This repository includes interactive games, calculators, and console-based applications.
 # Java Beginner Projects ☕
 
-A collection of Java projects built while learning and practicing Core Java. This repository showcases my progress in programming, logical thinking, and problem-solving through hands-on projects.
+A collection of Java projects developed to strengthen programming fundamentals, problem-solving skills, and object-oriented programming concepts. This repository includes interactive games, calculators, and console-based applications.
 
 ## 🛠️ Tech Stack
 
